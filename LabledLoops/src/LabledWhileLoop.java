@@ -7,12 +7,13 @@ public class LabledWhileLoop {
 		Ashok:while(i<=5) {
 			int j=1;
 			Yadav:while(j<=5) {
-				System.out.print("*");
+				System.out.print("Ashok");
 				j++;
 				break Ashok;
+				
 			}
 			System.out.println();
-			
+			i++;
 		}
 	}
 
