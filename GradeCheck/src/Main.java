@@ -8,7 +8,7 @@ public class Main {
 		else
 		{
 			System.out.println("Fail");
-		}
+	        }
 		}
 	public static void main(String[] args) {
 		Scanner sc =new Scanner(System.in);
