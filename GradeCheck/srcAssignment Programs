@@ -7,7 +7,7 @@ public class Main {
 		}
 		else
 		{
-			System.out.println("Fail");
+	        System.out.println("Fail");
 	        }
 		}
 	public static void main(String[] args) {
