@@ -10,6 +10,6 @@ public class GalacticArthmetic {
 	  System.out.println(galacticAddition(num1,num2));
 	  }
 	public static long galacticAddition(long num1, long num2) {
-		return num1 + num2;
+	    return num1 + num2;
 	}
 }
