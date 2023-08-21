@@ -22,7 +22,7 @@ public class ArithmeticOperations {
 	  System.out.print("Enter another number:");
 	   num2 = sc.nextInt();
 	  System.out.println(findRemainder(num1,num2));
-	  sc.close();
+	 sc.close();
    }
   public static int subtractNumbers(int num1, int num2) {
 	  return num2-num1;
